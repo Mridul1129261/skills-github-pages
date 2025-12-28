@@ -1,5 +1,4 @@
 ---
-layout:post 
+layout: post
 ---
-
 This is final blog
